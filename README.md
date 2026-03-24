@@ -85,5 +85,10 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
 3. Explicação: <EXPLICACAO_AQUI>
 
+1- https://github.com/TheAlgorithms/Python
+2- !Gráfico 
+
+
+
 
 
