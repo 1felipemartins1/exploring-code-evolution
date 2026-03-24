@@ -86,7 +86,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 3. Explicação: <EXPLICACAO_AQUI>
 
 1- https://github.com/TheAlgorithms/Python
-2- ![Gráfico](Screenshot from 2026-03-24 18-46-45.png)
+2- ![Grafico](Screenshot from 2026-03-24 18-46-45.png)
 
 
 
