@@ -81,12 +81,11 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/TheAlgorithms/Python
+2. Gráfico selecionado:  ![Grafico](imagem.png) 
+3. Explicação: O gráfico de 2026 revela que a biblioteca algorithm é dominada por listas (quase 2.500 usos), indicando um foco massivo em coleções dinâmicas e ordenação. O uso moderado de tuplas (cerca de 900) mostra uma boa prática de imutabilidade para retornos de funções. A surpresa se dá na presença tímida de dictionaries e a quase inexistência de sets. Em uma biblioteca de algoritmos, isso geralmente aponta para uma fase de desenvolvimento focada em estruturas lineares clássicas, que sugere que o repositório ainda prioriza estruturas lineares em vez de otimizações de busca rápida O(1).
 
-1- https://github.com/TheAlgorithms/Python
-2- ![Grafico](imagem.png) 
+Historicamente, grandes alterações nessas curvas costumam sinalizar refatorações de performance: se o uso de set subisse, teríamos um indício de que o código passou a focar em unicidade e velocidade de mapeamento. No momento, o perfil é de um código tradicional, focado na ordem dos elementos acima de tudo.
 
 
 
